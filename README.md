@@ -7,7 +7,12 @@ W.Avy review weather patterns in Hawaii as we look to open a surf and ice cream 
 
 The following tables summarize June's temperature statistics over time.
 
+Screen Shot 2021-05-02 at 9.09.30 PM![image](https://user-images.githubusercontent.com/79673185/116834411-e83c4580-ab8b-11eb-8548-4d633ee259f3.png)
+
+
 The following table summarizes Decembers temperature statistics over time.
+
+Screen Shot 2021-05-02 at 9.10.23 PM![image](https://user-images.githubusercontent.com/79673185/116834414-ed999000-ab8b-11eb-954a-7c4a75ca55c1.png)
 
 
 These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
